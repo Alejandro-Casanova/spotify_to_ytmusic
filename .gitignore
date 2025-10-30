@@ -170,7 +170,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-# sensitive info
+
+# Sensitive Info
 oauth.json
 raw_headers.txt
 playlists.json
+
+# Personal Settings
+settings.json
